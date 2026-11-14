@@ -353,7 +353,7 @@ código e como rodar as verificações antes de abrir um pull request.
 ## Créditos
 
 - **K.O. (Caio Botelho)** — idealização, testes e direção do projeto.
-- **o usuário** — desenvolvimento da interface e do montador de comandos.
+- **sillymay/agmarthur** — desenvolvimento da interface e do montador de comandos.
 - Comunidade QEMU, pelo emulador e pela documentação.
 
 ## Licença
