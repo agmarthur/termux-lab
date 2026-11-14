@@ -1,0 +1,11 @@
+[Desktop Entry]
+# Ajuste o Exec= abaixo se o projeto estiver em outra pasta.
+Type=Application
+Name=Termux Lab
+Comment=Virtualizador QEMU com interface gráfica
+Exec=/home/ar/Área de trabalho/vitualizador/vitualizador.sh
+Icon=utilities-terminal
+Terminal=false
+Categories=System;Emulator;
+Keywords=qemu;vm;virtualização;máquina virtual;termux;
+StartupNotify=true

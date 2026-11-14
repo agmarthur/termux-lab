@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# Ferramentas
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Nada de perfis ou discos por engano
+*.qcow2
+*.raw
+*.vmdk
+*.vdi
+*.vhd
+*.vhdx
+*.iso
+*.fd
