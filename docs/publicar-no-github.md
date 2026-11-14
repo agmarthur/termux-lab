@@ -4,8 +4,8 @@ Roteiro para colocar o Termux Lab no GitHub do zero.
 
 ## 1. Ajuste os créditos e os links
 
-- No `README.md`, troque `<seu-usuario>` pelo seu usuário do GitHub no comando
-  de `git clone`.
+- O usuário do GitHub já está preenchido nos comandos de `git clone`
+  (`agmarthur`). Troque se publicar em outra conta.
 - Em `LICENSE`, confira o ano e os nomes dos detentores dos direitos.
 - Em `vitualizador.desktop`, o campo `Exec=` aponta para o caminho absoluto da
   sua máquina. Para publicar, use um caminho relativo ou explique no README que
@@ -42,7 +42,7 @@ Sem GitHub CLI:
 2. Copie a URL e rode:
 
 ```bash
-git remote add origin https://github.com/<seu-usuario>/termux-lab.git
+git remote add origin https://github.com/agmarthur/termux-lab.git
 git push -u origin main
 ```
 
@@ -63,7 +63,7 @@ git push origin v1.0.0
 ## 5. Checklist de publicação
 
 - [ ] `python3 -m vitualizador --selftest` passa
-- [ ] `README.md` sem placeholders (`<seu-usuario>`)
+- [ ] `README.md` apontando para o repositório correto
 - [ ] `LICENSE` com nomes e ano corretos
 - [ ] `.gitignore` evita `__pycache__/` e arquivos locais
 - [ ] Screenshots em `docs/` atualizadas

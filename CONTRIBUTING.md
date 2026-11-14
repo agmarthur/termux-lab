@@ -13,7 +13,7 @@ que traduz um perfil de máquina para uma linha de comando do QEMU.
 ## Ambiente
 
 ```bash
-git clone https://github.com/<seu-usuario>/termux-lab.git
+git clone https://github.com/agmarthur/termux-lab.git
 cd termux-lab
 sudo apt install qemu-system-x86 qemu-img python3-pyqt6
 ```

@@ -84,7 +84,7 @@ sudo apt install ovmf qemu-efi-aarch64 opensbi
 ## Instalação
 
 ```bash
-git clone https://github.com/<seu-usuario>/termux-lab.git
+git clone https://github.com/agmarthur/termux-lab.git
 cd termux-lab
 ./vitualizador.sh
 ```
